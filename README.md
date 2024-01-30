@@ -1,1 +1,1 @@
-This is my repository for all my hacker rank solutions in java8 language.
+this is the solution for the question given in hacker rank to display the time in 24 hours format.
