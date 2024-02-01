@@ -1,1 +1,1 @@
-This are the solutions I have writen for the Hacker Rank questions in Java language.
+This were the solutions I have writen for the Hacker Rank questions in Java language.
